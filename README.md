@@ -56,5 +56,5 @@ If you have any questions please email me at gareth.t.flynn@gmail.com
 ## Links  
 
 * [Repository](https://github.com/garethtflynn/TextEditor)
-* [Deployed Application]()
+* [Deployed Application](https://guarded-fortress-14853.herokuapp.com/)
 
