@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/License-MIT-red)
 
-The purpose of this application is to show an API for a social network platform where you can see users' thoughts and reactions and create a friends list.
+The purpose of this application is to give the user the ability to use the text editor for whatever purpose they want, both on and offline! Whether thats practiving coding, writing notes, or jotting down blog post ideas.
 
 ## Table of Contents 
 
@@ -19,17 +19,19 @@ The purpose of this application is to show an API for a social network platform 
 
 ## Installation 
 
+To view the application all that is needed is the Url. However, you can install this application as a PWA on your device by clicking the download button on the browser. 
 
 ## Screenshots/Visuals
 
-![App Screenshot]()
+![App Screenshot](./assets/jate.png)
 
 ## Technology
 
-
+The technologies used for this application were several webpack plugins including: html-webpack-plugin, webpack-pwa-manifest, and workbox-webpack-plugin. Other technologies used were concurently, and nodemon. The main languages used for this application were Javascript, Html, and CSS.  
 
 ## Usage
 
+In order to use this application all you need is the Url! 
 
 ## License
 
@@ -54,4 +56,5 @@ If you have any questions please email me at gareth.t.flynn@gmail.com
 ## Links  
 
 * [Repository](https://github.com/garethtflynn/TextEditor)
+* [Deployed Application]()
 
